@@ -124,9 +124,58 @@ Administrators can:
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
-The platform follows a modular architecture designed to support user engagement, content management, operational workflows, and scalable digital services.
+<p align="center">
+  <img src="./assets/architecture/NathdwaraDarshan-system-architecture.png" width="100%" alt="Nathdwara Darshan System Architecture"/>
+</p>
+
+Nathdwara Darshan follows a modular Angular architecture designed to deliver spiritual experiences, cultural exploration, tourism information, digital content, and marketplace features through a unified platform.
+
+### Architecture Layers
+
+- **Client Layer**
+  - Desktop
+  - Tablet
+  - Mobile Devices
+
+- **Application Layer**
+  - Home
+  - Shrinathji Darshan
+  - Royal Rajasthan
+  - Art & Shop
+  - Product Catalog
+  - Events & Festivals
+  - Blogs & Articles
+  - Gallery & Media
+
+- **Service Layer**
+  - Authentication
+  - Content Management
+  - Event Management
+  - Product Management
+  - Media Services
+  - Analytics
+
+- **Backend Layer**
+  - Firebase Authentication
+  - Cloud Firestore
+  - Cloud Storage
+  - Cloud Functions
+  - Hosting
+
+- **Integration Layer**
+  - Email Services
+  - Maps & Location Services
+  - Social Media Integrations
+  - Analytics & Monitoring
+
+- **Security Layer**
+  - HTTPS / SSL
+  - Role-Based Access Control
+  - Secure API Communication
+  - Data Validation
+  - Backup & Recovery
 
 ---
 
@@ -136,21 +185,43 @@ The platform delivers a connected digital experience through modern interfaces, 
 
 ---
 
-# 📸 Platform Screenshots
+## 📸 Platform Screenshots
 
-### Home Experience
+### 🏠 Home Experience
 
----
+<p align="center">
+  <img src="./assets/screenshots/home.png" width="100%" alt="Home Experience"/>
+</p>
 
-### User Dashboard
+### 🙏 Shrinathji Darshan Experience
 
----
+<p align="center">
+  <img src="./assets/screenshots/shrinathji-darshan.png" width="100%" alt="Shrinathji Darshan"/>
+</p>
 
-### Content Management
+### 🏰 Royal Rajasthan Experience
 
----
+<p align="center">
+  <img src="./assets/screenshots/royal-rajasthan.png" width="100%" alt="Royal Rajasthan"/>
+</p>
 
-### Administrative Operations
+### 🛍️ Art & Shop Marketplace
+
+<p align="center">
+  <img src="./assets/screenshots/art-shop.png" width="100%" alt="Art & Shop Marketplace"/>
+</p>
+
+### 📅 Events & Festival Discovery
+
+<p align="center">
+  <img src="./assets/screenshots/events.png" width="100%" alt="Events & Festival Discovery"/>
+</p>
+
+### 📰 Blog & Cultural Content Platform
+
+<p align="center">
+  <img src="./assets/screenshots/blog-platform.png" width="100%" alt="Blog & Cultural Content Platform"/>
+</p>
 
 ---
 

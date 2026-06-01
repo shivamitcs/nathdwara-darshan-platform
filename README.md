@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Modern-black)
 ![Database](https://img.shields.io/badge/Database-Firebase-blue)
-![Security](https://img.shields.io/badge/Security-Role%20Based-success)
+![Security](https://img.shields.io/badge/Security-HTTPS-success)
 ![Deployment](https://img.shields.io/badge/Deployment-Cloud-green)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 
@@ -33,105 +33,101 @@ The platform focuses on accessibility, engagement, digital convenience, and oper
 ## Platform Highlights
 
 * Modern responsive user experience
-* Daily darshan updates
-* Digital service management
-* User account management
-* Online order management
-* Notifications & announcements
-* Administrative management tools
-* Analytics & reporting
-* Mobile-friendly experience
-* Secure platform infrastructure
-
----
-
-## User Management System
-
-The platform provides dedicated experiences for different user groups.
-
-### Supported Roles
-
-* Super Admin
-* Administrators
-* Staff Members
-* Registered Users
-* Visitors
+* Daily darshan information and updates
+* Spiritual and devotional content
+* Rajasthan heritage and cultural discovery
+* Historical places and destination guides
+* Events and festival information
+* Art & Shop marketplace experience
+* Cultural blogs and storytelling
+* Mobile-friendly platform experience
+* Secure and scalable digital infrastructure
 
 ---
 
 ## Digital Experience Infrastructure
 
-### User Experience
+### Spiritual Experience
 
 The platform provides:
 
-* Personalized user dashboard
-* Profile management
-* Activity tracking
-* Notification center
-* Content accessibility
-* Responsive mobile experience
+* Daily darshan information
+* Temple and devotional content
+* Festival highlights and celebrations
+* Spiritual storytelling experiences
+* Accessible cultural information
+* Responsive user experience
 
 ---
 
-### Administrative Operations
+### Cultural & Tourism Experience
 
-Administrators can:
+Visitors can:
 
-* Manage content
-* Manage users
-* Monitor activities
-* Publish announcements
-* Manage services
-* Review analytics
-
----
-
-## Enterprise Features
-
-* Responsive platform architecture
-* Role-based access management
-* Real-time content updates
-* Notification system
-* Analytics dashboards
-* Secure user management
-* Mobile-first experience
-* Scalable infrastructure
-* Administrative controls
-* Operational visibility
+* Explore Rajasthan heritage destinations
+* Discover local culture and traditions
+* Browse historical information
+* Explore events and festivals
+* Access curated travel content
+* Experience immersive digital storytelling
 
 ---
+
+## Platform Features
+
+* Modern responsive architecture
+* Spiritual and cultural content delivery
+* Events and festival discovery
+* Art & Shop marketplace experience
+* Blog and editorial content platform
+* Mobile-first user experience
+* Scalable digital infrastructure
+* Search and navigation experience
+* Analytics and performance monitoring
+* Optimized content accessibility
 
 ## Technology Stack
 
 ### Frontend Engineering
 
-* Angular
-* TypeScript
+* Angular 19
+* TypeScript 5
 * RxJS
 * Angular Router
 * Tailwind CSS
+* Angular Animations
+* ngx-translate
 
 ### Backend Infrastructure
 
 * Firebase
-* Firestore
-* Authentication
+* Cloud Firestore
+* Firebase Authentication
 * Cloud Functions
+* Firebase Hosting
+
+### UI & Experience
+
+* Responsive Design
+* Mobile-First Architecture
+* Interactive User Interfaces
+* Optimized Content Delivery
+* Modern Navigation Experience
 
 ### Architecture & Operations
 
-* Role-Based Access
-* Cloud Infrastructure
 * Modular Architecture
-* Environment Configuration
+* Cloud Infrastructure
+* Environment-Based Configuration
+* Scalable Application Structure
+* Performance Optimized Workflows
 
 ---
 
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="./assets/architecture/NathdwaraDarshan-system-architecture.png" width="100%" alt="Nathdwara Darshan System Architecture"/>
+  <img src="./assets/architecture/nathdwara-darshan-system-architecture.png" width="100%" alt="Nathdwara Darshan System Architecture"/>
 </p>
 
 Nathdwara Darshan follows a modular Angular architecture designed to deliver spiritual experiences, cultural exploration, tourism information, digital content, and marketplace features through a unified platform.
@@ -176,11 +172,10 @@ Nathdwara Darshan follows a modular Angular architecture designed to deliver spi
 
 - **Security Layer**
   - HTTPS / SSL
-  - Role-Based Access Control
+  - Secure Authentication
   - Secure API Communication
   - Data Validation
   - Backup & Recovery
-
 ---
 
 ## Platform Preview
@@ -237,15 +232,15 @@ The platform delivers a connected digital experience through modern interfaces, 
 
 ## 🔐 Security Architecture
 
-The platform incorporates modern security controls to ensure secure access and protected operations.
+The platform incorporates modern security controls to ensure reliable and secure digital experiences.
 
 Security capabilities include:
 
-* Role-Based Access Control
-* Secure Authentication
-* Protected Administrative Access
-* Secure Data Handling
-* Permission-Based Operations
+* HTTPS / SSL security
+* Secure authentication workflows
+* Protected content management
+* Data validation and integrity checks
+* Secure cloud infrastructure
 
 ---
 
@@ -281,42 +276,45 @@ The solution improves accessibility, simplifies operations, and provides a conne
 
 ## Platform Focus Areas
 
-* Digital Experience
-* User Engagement
-* Content Management
-* Operational Efficiency
-* Analytics & Reporting
-* Administrative Operations
-* Cloud Infrastructure
-* Scalable Services
+* Spiritual Experiences
+* Cultural Heritage
+* Rajasthan Tourism
+* Events & Festivals
+* Digital Storytelling
+* Art & Shop Marketplace
+* Content Publishing
+* Modern Web Experiences
 
 ---
 
 ## Product Roadmap
 
-### Phase 1
+### Phase 1 — Digital Foundation
 
 * Core Platform
-* User Management
-* Administrative Tools
+* Spiritual Content
+* Cultural Experiences
 * Digital Services
 
-### Phase 2
+### Phase 2 — Engagement Layer
 
-* Advanced Analytics
 * Enhanced User Experience
-* Automated Notifications
+* Events & Festival Expansion
+* Interactive Experiences
+* Content Enhancements
 
-### Phase 3
+### Phase 3 — Platform Expansion
 
 * Mobile Applications
-* Advanced Reporting
+* Advanced Content Delivery
+* Performance Enhancements
 * Service Expansion
 
-### Phase 4
+### Phase 4 — Future Experiences
 
 * Intelligent Recommendations
-* Automation Workflows
+* Enhanced Discoverability
+* Personalization Features
 * Future Platform Enhancements
 
 ---
@@ -336,7 +334,7 @@ The solution improves accessibility, simplifies operations, and provides a conne
 ```txt
 assets/
 ├── architecture/
-├── branding/
+├── banner/
 ├── screenshots/
 └── workflows/
 ```

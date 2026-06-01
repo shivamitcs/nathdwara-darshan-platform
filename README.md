@@ -10,6 +10,10 @@
 
 Modern digital platform for Nathdwara Darshan designed to enhance devotee experiences, streamline daily operations, and provide seamless access to services and information.
 
+<p align="center">
+  <img src="./assets/banner/nathdwara-darshan-banner.png" width="100%" alt="Nathdwara Darshan Banner"/>
+</p>
+
 ---
 
 ## 🌐 Live Platform
@@ -190,37 +194,43 @@ The platform delivers a connected digital experience through modern interfaces, 
 ### 🏠 Home Experience
 
 <p align="center">
-  <img src="./assets/screenshots/home.png" width="100%" alt="Home Experience"/>
+  <img src="./assets/screenshots/Home.png" width="100%" alt="Home Experience"/>
 </p>
 
-### 🙏 Shrinathji Darshan Experience
+### 🙏 Shrinathji Darshan
 
 <p align="center">
-  <img src="./assets/screenshots/shrinathji-darshan.png" width="100%" alt="Shrinathji Darshan"/>
+  <img src="./assets/screenshots/Shreenath_darshan.png" width="100%" alt="Shrinathji Darshan"/>
 </p>
 
-### 🏰 Royal Rajasthan Experience
+### 🏛️ History & Heritage
 
 <p align="center">
-  <img src="./assets/screenshots/royal-rajasthan.png" width="100%" alt="Royal Rajasthan"/>
+  <img src="./assets/screenshots/History.png" width="100%" alt="History & Heritage"/>
+</p>
+
+### 🎭 Places & Culture
+
+<p align="center">
+  <img src="./assets/screenshots/Place_and_Culture.png" width="100%" alt="Places & Culture"/>
 </p>
 
 ### 🛍️ Art & Shop Marketplace
 
 <p align="center">
-  <img src="./assets/screenshots/art-shop.png" width="100%" alt="Art & Shop Marketplace"/>
+  <img src="./assets/screenshots/Art_and_Shop.png" width="100%" alt="Art & Shop Marketplace"/>
 </p>
 
-### 📅 Events & Festival Discovery
+### 📅 Events & Festivals
 
 <p align="center">
-  <img src="./assets/screenshots/events.png" width="100%" alt="Events & Festival Discovery"/>
+  <img src="./assets/screenshots/Events.png" width="100%" alt="Events & Festivals"/>
 </p>
 
-### 📰 Blog & Cultural Content Platform
+### 📰 Blog & Cultural Content
 
 <p align="center">
-  <img src="./assets/screenshots/blog-platform.png" width="100%" alt="Blog & Cultural Content Platform"/>
+  <img src="./assets/screenshots/Blog.png" width="100%" alt="Blog & Cultural Content"/>
 </p>
 
 ---

@@ -93,7 +93,7 @@ Visitors can:
 * Angular 19
 * TypeScript 5
 * RxJS
-* Angular Router
+* Angular Router 
 * Tailwind CSS
 * Angular Animations
 * ngx-translate

@@ -11,7 +11,7 @@
 Modern digital platform for Nathdwara Darshan designed to enhance devotee experiences, streamline daily operations, and provide seamless access to services and information.
 
 <p align="center">
-  <img src="./assets/banner/nathdwara-darshan-banner.png" width="100%" alt="Nathdwara Darshan Banner"/>
+  <img src="./assets/banner/nathdwara-darshan-banner.png" width="100%" alt="Nathdwara Darshan Banner" />
 </p>
 
 ---

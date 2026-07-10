@@ -26,7 +26,7 @@ https://nathdwaradarshan.com/
 
 Nathdwara Digital Platform is designed to provide a modern digital experience for devotees while simplifying operational activities through a centralized and easy-to-use platform.
 
-The platform focuses on accessibility, engagement, digital convenience, and operational efficiency, helping users stay connected with daily activities and services.
+The platform focuses on accessibility, engagement, digital convenience, and operational efficiency, helping users stay connected with daily activities and services. 
 
 ---
 
@@ -40,7 +40,7 @@ The platform focuses on accessibility, engagement, digital convenience, and oper
 * Events and festival information
 * Art & Shop marketplace experience
 * Cultural blogs and storytelling
-* Mobile-friendly platform experience
+* Mobile-friendly platform experience 
 * Secure and scalable digital infrastructure
 
 ---
@@ -71,7 +71,7 @@ Visitors can:
 * Access curated travel content
 * Experience immersive digital storytelling
 
----
+---  
 
 ## Platform Features
 
@@ -82,7 +82,7 @@ Visitors can:
 * Blog and editorial content platform
 * Mobile-first user experience
 * Scalable digital infrastructure
-* Search and navigation experience
+* Search and navigation experience 
 * Analytics and performance monitoring
 * Optimized content accessibility
 

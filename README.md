@@ -200,43 +200,43 @@ The platform delivers a connected digital experience through modern interfaces, 
 ### 🏠 Home Experience
 
 <p align="center">
-  <img src="./assets/screenshots/Home.png" width="100%" alt="Home Experience"/>
+  <img src="./assets/screenshots/Home.png" width="100%" alt="Home Experience" />
 </p>
 
 ### 🙏 Shrinathji Darshan
 
 <p align="center">
-  <img src="./assets/screenshots/Shreenath_darshan.png" width="100%" alt="Shrinathji Darshan"/>
+  <img src="./assets/screenshots/Shreenath_darshan.png" width="100%" alt="Shrinathji Darshan" />
 </p>
 
 ### 🏛️ History & Heritage
 
 <p align="center">
-  <img src="./assets/screenshots/History.png" width="100%" alt="History & Heritage"/>
+  <img src="./assets/screenshots/History.png" width="100%" alt="History & Heritage" />
 </p>
 
 ### 🎭 Places & Culture
 
 <p align="center">
-  <img src="./assets/screenshots/Place_and_Culture.png" width="100%" alt="Places & Culture"/>
+  <img src="./assets/screenshots/Place_and_Culture.png" width="100%" alt="Places & Culture" />
 </p>
 
 ### 🛍️ Art & Shop Marketplace
 
 <p align="center">
-  <img src="./assets/screenshots/Art_and_Shop.png" width="100%" alt="Art & Shop Marketplace"/>
+  <img src="./assets/screenshots/Art_and_Shop.png" width="100%" alt="Art & Shop Marketplace" />
 </p>
 
 ### 📅 Events & Festivals
 
 <p align="center">
-  <img src="./assets/screenshots/Events.png" width="100%" alt="Events & Festivals"/>
+  <img src="./assets/screenshots/Events.png" width="100%" alt="Events & Festivals" />
 </p>
 
 ### 📰 Blog & Cultural Content
 
 <p align="center">
-  <img src="./assets/screenshots/Blog.png" width="100%" alt="Blog & Cultural Content"/>
+  <img src="./assets/screenshots/Blog.png" width="100%" alt="Blog & Cultural Content" />
 </p>
 
 ---
